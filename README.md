@@ -1,4 +1,4 @@
-# Realtime Chat Application
+# [Chat Application](https://chat0app1.netlify.app/)
 
 A full-stack chat application built using **React**, **Firebase**, and **Zustand** for state management. The application supports real-time messaging, user authentication, image uploads, and more, with data stored in Firebase Firestore.
 
